@@ -1,84 +1,116 @@
-Here’s a ready-to-paste version using your technical background—no placeholders, invented project links, or contact details.
+<div align="center">
 
-````markdown
-# 👋 Hi there
+# 👋 Hey, I'm SacerdosH3x
 
-🖥️ Linux & Infrastructure · ⚙️ **DevOps** · 🛡️ Defensive Security
+### 🐧 Linux · ⚙️ DevOps · 🛡️ Defensive Security · 🧪 Homelab
 
-I work with Linux servers, containers, CI/CD pipelines, networking, and identity systems. My focus is practical automation, reproducible infrastructure, and services that are easier to operate and troubleshoot.
+I work with infrastructure, troubleshoot systems, and automate repetitive tasks.
 
-Currently developing my skills in Kubernetes, DevSecOps, security monitoring, and AI-assisted tooling.
+Now I'm bringing more of that work to GitHub—learning in public, documenting experiments, and building useful tools along the way.
+
+[Explore my repositories](https://github.com/SacerdosH3x?tab=repositories) · [See what I'm exploring](https://github.com/SacerdosH3x?tab=stars)
+
+</div>
 
 ---
 
 ## 🧭 At a glance
 
-| Area | What I work with and explore |
-| --- | --- |
-| 🖥️ Sysadmin | Linux administration, Nginx, Tomcat, PostgreSQL, RabbitMQ, TLS certificates, and Java truststores |
-| ⚙️ DevOps | Docker, Docker Compose, Jenkins, Bitbucket Pipelines, CI/CD runners, and infrastructure automation |
-| 🌐 Networking | DNS, routing, VPNs, firewalls, reverse proxies, and service connectivity |
-| 🔐 Identity | Keycloak administration; exploring OIDC, SAML, FIDO2, and certificate authentication |
-| 🛡️ Security | Hardening, vulnerability management, defensive security, and ELK/Wazuh/SIEM monitoring |
-| 🤖 AI | Exploring local LLMs, AI agents, MCP, and AI-assisted automation |
-| 🧪 Homelab | Linux, containers, networking experiments, and ESP32 projects |
-| 📚 Learning | Kubernetes, Helm, OpenTofu, DevSecOps, and Python/Go utilities |
+| Area | What I'm working with |
+| :--- | :--- |
+| 🐧 Linux & systems | Linux servers, service administration, troubleshooting, and infrastructure migrations |
+| 📦 Containers | Docker, Docker Compose, application deployments, and container networking |
+| ⚙️ CI/CD | Jenkins, Bitbucket Pipelines, runners, and deployment automation |
+| 🌐 Networking | DNS, routing, VPNs, firewalls, reverse proxies, and TLS |
+| 🔐 Identity | Keycloak administration; learning more about OIDC, SAML, FIDO2, and certificate authentication |
+| 🛡️ Security | Developing skills in hardening, vulnerability management, and centralized security monitoring |
+| 🤖 AI | Exploring local LLMs, AI agents, MCP, and practical automation |
+| 🧪 Personal projects | Homelab experiments, Linux customization, and ESP32 tinkering |
 
 ---
 
-## 🛠️ What I'm focused on
+## 🛠️ My toolbox
 
-### ⚙️ Infrastructure & automation
+Tools and technologies I've worked with, alongside areas I'm actively learning.
 
-- Making infrastructure repeatable with OpenTofu and automation.
-- Improving CI/CD pipelines and integrating security checks.
-- Building practical utilities with Python and Go.
-- Writing clear documentation and operational runbooks.
+### Systems & services
 
-### 🖥️ Systems & reliability
+`Linux` · `Nginx` · `Tomcat` · `PostgreSQL` · `RabbitMQ` · `Keycloak`
 
-- Operating and troubleshooting Linux services and containerized applications.
-- Managing reverse proxies, certificates, and application connectivity.
-- Working through infrastructure migrations, logging, and monitoring.
-- Turning manual fixes into repeatable procedures.
+### Containers & delivery
 
-### 🛡️ Defensive security & identity
+`Docker` · `Docker Compose` · `Jenkins` · `Bitbucket Pipelines` · `Git`
 
-- Developing hands-on skills in hardening and vulnerability management.
-- Exploring centralized logging, detection, and security dashboards.
-- Learning more about authentication and identity integrations.
-- Experimenting with security tools in authorized lab environments.
+### Networking & identity
 
-### 🤖 AI & local tooling
+`DNS` · `VPNs` · `Firewalls` · `TLS` · `Reverse proxies` · `Java truststores`
 
-- Exploring local LLMs and integrations with existing workflows.
-- Experimenting with AI agents and MCP.
-- Investigating practical uses of AI for infrastructure and security tasks.
+### Currently learning & exploring
+
+`Kubernetes` · `Helm` · `OpenTofu` · `Wazuh` · `ELK` · `Python` · `Go` · `MCP`
+
+---
+
+## 🌱 What I'm building toward
+
+### ⚙️ Reproducible infrastructure
+
+Moving from manual setup and one-off fixes toward version-controlled configurations, repeatable deployments, and clear runbooks.
+
+### 🛡️ Security-minded operations
+
+Learning how to make security part of everyday infrastructure work—from hardening and vulnerability checks to better logs and detection.
+
+### 🤖 Practical automation
+
+Exploring scripts, small utilities, and AI integrations that reduce repetitive work without making systems harder to understand.
+
+### 📚 Useful documentation
+
+Turning troubleshooting sessions and lab experiments into notes that are easier to revisit, reproduce, and share.
 
 ---
 
 ## 🧪 Homelab & experiments
 
-My personal projects are a place to test ideas, learn new tools, and understand how systems behave before applying changes elsewhere.
+My lab is where I can test ideas, break things safely, and figure out why they broke.
 
-Areas I explore include:
+Current interests include:
 
-- Linux administration and container-based services.
-- Networking, identity, and security monitoring.
-- Kubernetes and infrastructure automation.
-- Local AI tooling and embedded devices.
+- Linux services and containerized applications.
+- Networking, authentication, and certificate management.
+- Logging, monitoring, and defensive security.
+- Kubernetes and infrastructure as code.
+- Local AI tooling and ESP32 projects.
 
----
-
-## 🧰 How I work
-
-- Start with logs and observable behavior.
-- Prefer practical, reversible changes.
-- Automate repetitive tasks.
-- Keep configurations reproducible.
-- Document what works—and what breaks.
+The goal isn't to collect the most tools—it's to understand the systems behind them.
 
 ---
 
-🖥️ Sysadmin | 🛡️ Security | ⚙️ DevOps | 🤖 AI | 🧪 Homelab
-````
+## 📂 About this GitHub
+
+I'm just getting started with sharing my work here.
+
+This profile is a starting point for infrastructure experiments, automation utilities, configurations, and technical notes. I'm building it up gradually, with an emphasis on things I've actually tested and can explain.
+
+No content channel or polished project catalogue yet—just hands-on learning and work worth documenting.
+
+---
+
+## 🧰 How I approach problems
+
+- Read the logs before guessing.
+- Understand the failure before adding another tool.
+- Prefer changes that are reversible.
+- Automate what needs to be repeated.
+- Document enough for the next person—including future me.
+
+---
+
+<div align="center">
+
+### Build. Break. Understand. Automate.
+
+<sub>🐧 Linux | ⚙️ DevOps | 🛡️ Security | 🤖 AI | 🧪 Homelab</sub>
+
+</div>
